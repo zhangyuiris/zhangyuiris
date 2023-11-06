@@ -1,9 +1,6 @@
 ### Hi, this is Iris 👋
 
 🧐  Recently focused on Frontend, WebRTC, WebMedia
-
-💻  Front-end engineer working at Tencent RTC.
-
 📬  913007768zyw@gmail.com
 
 ## Some interesting code toys I made before.
